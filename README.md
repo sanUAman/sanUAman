@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sanUAman
+- 👋 Hi, Alex
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python and English
 - 💞️ I’m looking to collaborate on any company
