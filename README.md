@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Alex
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python and English
+- 🌱 I’m currently learning Python, C# and English
 - 💞️ I’m looking for collaborate on any company
 - 📫 How to reach me ⬇️
 Inst - https://www.instagram.com/etoosnovadzh
