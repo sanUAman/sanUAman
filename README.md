@@ -29,13 +29,13 @@
 
 ###
 
-<p>For freelance work? do reach, <a href="https://mail.google.com/mail/u/7/#inbox?compose=CllgCJvnJCQbKSflvBjjPSczvphzvDLZKkJDNqpBgllPpkmqJZrJljqCWVhpvHNhHgMPSjjZBsV" target="_blank">email</a> :)</p>
+<p>For freelance work? do reach, <a href="https://mail.google.com/mail/u/0/#inbox?compose=jrjtWvNPMjlZdfTKBBBdFnGqJDzSClKtkmqDlWfKSJKLksDBSlQLpsfBjGBQqGvVqKHwVpMV">email</a> :)</p>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/sanUAman/sanUAman/output/snake.svg" alt="Snake animation" />
 
 ###
 
